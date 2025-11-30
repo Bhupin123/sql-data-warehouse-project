@@ -77,33 +77,6 @@ Detailed requirements are documented in `docs/requirements.md`.
 
 ---
 
-## 📂 Repository Structure
-
-data-warehouse-project/
-│
-├── datasets/ # Source CSV data
-│
-├── docs/ # Architecture diagrams + documentation
-│ ├── etl.drawio
-│ ├── data_architecture.drawio
-│ ├── data_catalog.md
-│ ├── data_flow.drawio
-│ ├── data_models.drawio
-│ ├── naming-conventions.md
-│
-├── scripts/ # SQL ETL scripts
-│ ├── bronze/
-│ ├── silver/
-│ ├── gold/
-│
-├── tests/ # Testing & validation files
-│
-├── README.md # Main documentation
-├── LICENSE
-├── .gitignore
-└── requirements.txt
-
----
 
 
 
